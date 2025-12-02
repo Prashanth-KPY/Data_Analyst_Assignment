@@ -40,7 +40,7 @@ I have included SQL scripts, spreadsheets, Python programs, and supporting files
 ## Submission Links
 
 - **GitHub Link:** [Data_Analyst_Assignment](https://github.com/Prashanth-KPY/Data_Analyst_Assignment)  
-- **Spreadsheet Link:** https://docs.google.com/spreadsheets/d/yourspreadsheetlink  
+- **Spreadsheet Link:** [SpreadSheets](https://docs.google.com/spreadsheets/d/1NlmTRAYmynYhLt6KhUfAiBYZNQdDaK5hcbTcoVEpnbQ/edit?usp=sharing) 
 - **Word Document Link:** https://docs.google.com/document/d/yourdoclink  
 - **Screen Recording Link:** https://drive.google.com/file/d/yourvideolink  
 
