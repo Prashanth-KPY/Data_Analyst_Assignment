@@ -41,8 +41,8 @@ I have included SQL scripts, spreadsheets, Python programs, and supporting files
 
 - **GitHub Link:** [Data_Analyst_Assignment](https://github.com/Prashanth-KPY/Data_Analyst_Assignment)  
 - **Spreadsheet Link:** [SpreadSheets](https://docs.google.com/spreadsheets/d/1NlmTRAYmynYhLt6KhUfAiBYZNQdDaK5hcbTcoVEpnbQ/edit?usp=sharing) 
-- **Word Document Link:** https://docs.google.com/document/d/yourdoclink  
-- **Screen Recording Link:** https://drive.google.com/file/d/yourvideolink  
+- **Word Document Link:**  [document](https://docs.google.com/document/d/1tDAS7ICuU4P5QSSWWbtt3Qft3_bxEWgKUSIRtmqqPb4/edit?usp=sharing)
+- **Screen Recording Link:** [Video](https://docs.google.com/videos/d/1TsXjHqyt9NXrAs3DK6c5q0XN9QsA0g-XYewdvLNLZ1I/edit?usp=sharing)
 
 ---
 
